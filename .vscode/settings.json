@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "files.eol": "\n",
+  "files.trimTrailingWhitespace": true,
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "window.zoomLevel": 1,
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "material-icon-theme",
+  "java.compile.nullAnalysis.mode": "automatic"
+}
